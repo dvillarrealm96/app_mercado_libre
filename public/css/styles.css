@@ -1,0 +1,45 @@
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+.logo {
+  background-color: #eac926;
+}
+
+.nav {
+  background-color: #1259c3;
+  color: white;
+}
+
+body {
+  font-size: 12px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.bold {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.precio {
+  font-size: 18px;
+}
+
+.descuentoDesc {
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  background-color: #ebebeb;
+}
+
+.iconos {
+  font-size: 2em;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}

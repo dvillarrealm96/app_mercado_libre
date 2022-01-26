@@ -1,5 +1,7 @@
 html {
   font-family: "Roboto", sans-serif;
+  width: 90%;
+  margin: 20px;
 }
 
 .logo {
@@ -14,6 +16,10 @@ html {
 body {
   font-size: 12px;
   text-align: center;
+}
+
+img {
+  max-width: 100%;
 }
 
 h2 {
@@ -42,4 +48,13 @@ footer {
   font-size: 2em;
   margin-bottom: 10px;
   margin-right: 10px;
+}
+
+.articulo {
+  padding: 10px;
+}
+
+.cajaArticulo {
+  border: solid 1px red;
+  margin: 15px;
 }
